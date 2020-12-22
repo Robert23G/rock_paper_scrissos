@@ -1,1 +1,1 @@
-# rock_paper_scrissos
+Trying to make a Rock Paper Scrissors game.
